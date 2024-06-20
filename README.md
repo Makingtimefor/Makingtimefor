@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**Makingtimefor/Makingtimefor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+我认为这个地方是一面巨大的镜子,我想借用此镜子来印证我的无知
+我会将我的学习笔记和我的一些思考发到这上面
+希望接受大家的批判
+大体想法也就是这样吧
+下面是我想在此完成的目标
+1. 摆脱对短视频的依赖(找点事做,别一天到晚捧着个手机...)
+2. 这个项目被大家看到,并有人回复我
+3. 意识到自己的不足,收到真挚的批判与建议
+4. 臻于至善
+(走一步算一步😄,能写一点是一点,反正把刷视频的时间挤到做这个上,我认为就是有帮助的)
